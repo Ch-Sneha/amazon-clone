@@ -107,7 +107,7 @@ A complete walkthrough showcasing:
 * Dynamic order tracking
 * Jasmine test execution
 
-> **Demo Video:** *(Add your LinkedIn or YouTube video link here.)*
+>[Demo Video](https://www.linkedin.com/posts/sneha-chillarige-93339634a_javascript-frontenddevelopment-webdevelopment-ugcPost-7477006822424604672-lXao/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFdECrcBPSfzf06K6k_V3sNXGnJLE7xiqO0)
 
 ---
 
