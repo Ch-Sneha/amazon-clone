@@ -42,6 +42,19 @@
   }
 }
 
+.quantity-updated-message {
+  font-weight: bold;
+  color: rgb(224, 95, 9);
+  font-size:18px;
+  margin-left: 8px;
+  display: none;
+  margin-top:10px 0 0 0;
+}
+
+.quantity-updated-message-visible {
+  display: block;
+}
+
 .cart-item-container,
 .payment-summary {
   border: 1px solid rgb(222, 222, 222);

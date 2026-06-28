@@ -25,6 +25,19 @@
   row-gap: 50px;
 }
 
+.added-to-cart {
+  font-weight: bold;
+  color: green;
+  opacity: 0;
+  transition: opacity 0.3s;
+  margin-top: 8px;
+  font-size: 18px;
+}
+
+.added-to-cart-visible {
+  opacity: 1;
+}
+
 .order-header {
   background-color: rgb(240, 242, 242);
   border: 1px solid rgb(213, 217, 217);
@@ -218,3 +231,4 @@
     padding: 12px;
   }
 }
+
